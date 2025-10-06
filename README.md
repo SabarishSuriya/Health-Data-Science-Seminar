@@ -1,5 +1,5 @@
 # Health-Data-Science-Seminar
-I conducted a comparative analysis of two research papers on breast cancer detection using machine learning. The report examined the DE_RBF_KELM model and the optimized ensemble learning with XAI, comparing their methods, datasets, and performance. Both achieved high accuracy, enhancing early cancer diagnosis.
+I conducted a comparative analysis of two research papers on breast cancer detection using machine learning. The report examined the DE_RBF_KELM (MLP Method) model and the optimized ensemble learning with XAI, comparing their methods, datasets, and performance. Both achieved high accuracy, enhancing early cancer diagnosis.
 
 
 In this report, we will critically examine both studies, focusing on their methodologies, results, and their potential impact on breast cancer diagnostics. 
